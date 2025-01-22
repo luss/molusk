@@ -1,3 +1,3 @@
 # molusk
 
-<img src=molusks.jpeg>
+<img src=molusks.jpg>
